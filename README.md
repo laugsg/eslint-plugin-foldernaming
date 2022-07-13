@@ -1,5 +1,7 @@
 # eslint-plugin-folders
 
+> This package was forked from [sSwSs](https://github.com/sSwSs/eslint-plugin-folders) who fixed the issue ["Wrong parsing of file path on Windows"](https://github.com/christopherbradleybanks/eslint-plugin-folders/issues/1) of [eslint-plugin-folders](https://github.com/christopherbradleybanks/eslint-plugin-folders) by christopherbradleybanks
+
 Adds [eslint](http://eslint.org/) rules to ensure consistent folder names for your javascript files.
 
 __Please note__: This plugin will only lint the folder Names of the `.js`, `.jsx` files you are linting with eslint. It will ignore other files that are not linted with eslint.

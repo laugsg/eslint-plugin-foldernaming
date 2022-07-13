@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-folders",
+  "name": "eslint-plugin-foldernaming",
   "version": "1.0.4",
-  "description": "Eslint rule for consistent folder names.",
+  "description": "Eslint rule for consistent folder names (fix: issue 'Wrong parsing of file path on Windows' from sSwSs).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/christopherbradleybanks/eslint-plugin-folders.git"
+    "url": "git@github.com:laugsg/eslint-plugin-foldernaming.git"
   }
 }
